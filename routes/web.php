@@ -9,3 +9,12 @@ Route::get('/', function () {
 Route::get('/docs', function () {
     return view('docs');
 });
+
+Route::get('/historico', function () {
+    return view('historico');
+});
+
+Route::get('/config', function () {
+    return view('config');
+});
+
