@@ -53,3 +53,10 @@ php artisan serve
 ```bash
 http://localhost:8000
 ```
+
+----
+
+
+## Modelo relacional 
+ 
+![](https://uploaddeimagens.com.br/images/004/806/761/original/bd_info.png?1719765962)
