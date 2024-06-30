@@ -19,7 +19,7 @@ Envio de Sugestões: As informações preenchidas são enviadas diretamente para
 
 1 - Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/portal-de-sugestao.git
+git clone https://github.com/lucasmarquesfaria/portal
 ```
 2 - Instale as dependências do Laravel:
 ```bash
